@@ -1,0 +1,48 @@
+UTILIDADE DE CADA IA 
+
+========== GPT (OpenAI) ==========
+- raciocínio criativo
+- suporte em codificação 
+- soluções flexíveis de problemas
+- automação de fluxo de trabalho
+- planejamento
+- criativdade e profundidade técnica
+
+========== GROK ==========
+- atualizações do dia a dia 
+- notícias atualizadas em tempo real (fonte principal: twitter)
+- é mais enviezado, tem mais tendência a errar
+
+========== GEMINI ==========
+- pesquisas do dia a dia
+- atualidades 
+- integração com android 
+- forte no ecossistema da google 
+
+========== CLAUDE ==========
+- segurança e respostas cuidadosas
+- escrita de textos longos 
+- lida bem com grande volume de documentos
+- raciocínio mais cuidadoso e preciso 
+
+========== DEEP SEEK ==========
+- programação 
+- eficiência 
+- raciocínio técnico 
+- tarefas lógicas 
+
+========== LHAMA ==========
+- modelo base 
+- construção de outras IAs em cima dos modelos dele 
+- tecnologia base por trás de muitas IAs menores
+
+========== PERPLEXITY ==========
+- sisema de busca com IA 
+- enfatiza em fornecer respostas com fontes e referências
+- sumarização (resume muito bem as coisas) com fontes confiáveis 
+- consultas acadêmicas
+
+========== IAs ESPECIALIZADAS EM CÓDIGO ========== 
+- Loveable 
+- Base44
+- Google Antigravity*

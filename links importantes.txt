@@ -1,0 +1,7 @@
+========== LINKS IMPORTANTES ==========
+
+TUTORIAL BÁSICO - COMO CRIAR UM BOT NO TEAMS
+Link: https://www.youtube.com/watch?v=JItBNc2sG8U
+
+CRIE UM CHATBOT para o Microsoft Teams em 5 MINUTOS com o Power Virtual Agents!
+Link: https://www.youtube.com/watch?v=_tyPH0_7Vsg

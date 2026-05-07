@@ -1,0 +1,57 @@
+RESUMO PERPLEXITY
+
+========== ARQUITETURA RECOMENDADA ==========
+- Ecossistema M365
+	- Microsoft Bot Framework/Teams AI Library 
+
+=== BACKEND ===
+OPÇÃO 1:
+	- Node.js + Bot Framework SDK
+OPÇÃO 2: 
+	- .NET (C#)+ Bot Framework SDK
+- Hospedagem em Azure (App Service ou Azure Functions)
+
+=== ARMAZENAMENTO ===
+- OneDrive for Business (via Graph API) + Azure Blob Storage.
+
+=== EXCEL ===
+- Planilha no SharePoint -> atualização via Power Automate ou Office Scripts
+
+=== E-MAIL ===
+- Microsoft Graph API ou Power Automate (conector Outlook)
+
+Link: 
+[Bots em Microsoft Teams – Microsoft Learn] (ING) - https://learn.microsoft.com/en-us/microsoftteams/platform/bots/build-a-bot 
+
+
+========== LINGUAGEM ==========
+OPÇÃO 1: Node.js + Bot Framework SDK (JavaScript/TypeScript)
+- Preferência por JS e TS 
+
+	PRÓS:
+	- Grande comunidae = mais fácil achar documentação e ajuda
+	- Leve e rápido de prototipar
+
+
+OPÇÃO 2: .NET (C#) + Bot Framework SDK
+- Preferência por C#
+
+	PRÓS: 
+	- Forte integração com o Azure 
+	- Azure Functions + SDK bem integrado
+
+Links:
+[Bot Framework SDK para Node.js/C# – Microsoft Learn] (ING) - https://learn.microsoft.com/en-us/microsoftteams/platform/bots/build-a-bot
+[Guia passo a passo de desenvolvimento de bot para Teams] (ING) - https://osmosys.co/blog/microsoft-teams-bot-development-a-step-by-step-guide/
+
+
+========== FERRAMENTAS ==========
+- VSCode
+	- Teams Tookit: extensão oficial para criar apps/bots para Teams com templates prontos.
+ 
+- Bot Framework Emulator: testa o bot localmente antes de subir para o Teams 
+
+- Azure DevOps / GitHub: versionamento e CI/CD para o bot (Azure App Service / Functions).
+
+Links:
+[Tools and SDKs for Teams bots – Microsoft Learn] - https://learn.microsoft.com/en-us/microsoftteams/platform/bots/build-a-bot

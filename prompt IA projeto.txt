@@ -1,0 +1,24 @@
+Eu estou desenvolvendo um chatbot para Teams para minha empresa. Vou detalha-lo o melhor possível, preciso que a resposta seja precisa. 
+
+ATUALMENTE
+Temos um sistema de abertura de chamados via Forms que faz com que nós perdamos muito tempo para processar todos os dados. O sistema 
+funciona assim atualmente: 
+Tem uma árvore de perguntas que podem ser feitas, dependendo de quais as opções que você escolher, ele vai te redirecionar para outras perguntas 
+e assim por diante. Nele também é necessário a indexação de arquivos os quais nós solicitamos (comprovantes, autorizações e etc), ao final, uma planilha é 
+atualizada com todas as informações necessárias e coletadas via Forms.
+
+OBJETIVO
+Transformar esse forms em um chatbot que:
+- Colete as respostas dadas pelo usuário 
+- Armazene os anexos enviados de acordo com cada solicitação 
+- Atualize uma planilha com todas as informações coletadas
+	- nesse tópico eu preciso que ele cruze informações e preencha a planilha com as informações cruzadas
+- Envie e-mail sobre a abertura da demanda assim que a conversa com o chatbot for finalizada
+
+
+Por enquanto essas são as funções principais, mais para frente nós desejamos implementar um estrutura de banco de dados não relacional (MongoDB) para
+que seja possível a elaboração de uma plataforma a qual nós vamos conseguir ter um controle completo sobre as demandas. Nosso objetivo final é eliminar o forms
+e a planilha de excel, de forma que tudo seja automatizado.
+
+O que eu quero de você?: Foque na primeira fase do projeto (a que ainda usamos planilha e estamos planejando somente elimiar o forms), quero que você me apresente quais são as ferramentas,
+tecnologias, linguagem de programacação, frameworks, extensões, etc. mais recomendados para essa automação.
